@@ -19,6 +19,8 @@ mvn spring-boot:run
 ```
 
 ## mutantes-gateway routes
+. Local endpoint: http://localhost:8765
+. Heroku endpoint: https://mutantes-gateway.herokuapp.com
 
 ### POST /statistic
 ```
